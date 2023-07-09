@@ -151,3 +151,42 @@ margin-bottom: 20px;
     align-items: center;
     gap: 10px;
 }
+
+/* news part css style */
+
+.news {
+    color: black;
+    text-align: center;
+    margin: 50px;
+}
+
+.card {
+    width: 200px;
+    height: 400px;
+
+}
+
+.bappa {
+    width: 100%;
+}
+
+.hhh {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.news {
+
+    width: 80%;
+    margin: auto;
+    background-color: gray;
+    padding: 10px;
+}

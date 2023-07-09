@@ -65,3 +65,67 @@ color: white;
 color: white;
 
 }
+
+/* main section part css style */
+
+.tom {
+    height: 100vh;
+    border: 2px solid salmon;
+    background-image:url(./asset/image/footer-bg.png), linear-gradient( rgba(0 ,0 ,0 ,.9), rgba( 0, 0, 0,0.9));
+    background-blend-mode: overlay;
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+/* main section img css style */
+
+.icon {
+    width: 80px;
+margin-bottom: 20px;
+}
+
+.migu {
+    text-align: center;
+    width: 150px;
+    height: 100px;
+    padding: 50px;
+    background-color: white;
+    color: black;
+    border-radius: 5px solid grey;
+    
+    
+    
+}
+.box {
+    display: flex;
+    gap: 5px;
+    margin-top: 5px;
+}
+
+.apen {
+    width: 50%;
+}
+
+.bhai {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.profile {
+
+    display: flex;
+    align-items: last baseline;
+}
